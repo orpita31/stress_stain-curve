@@ -1,5 +1,5 @@
 # stress_stain-curve
-analysis and comparison mechanical behavior of material using stress vs strain curve and Normalized stress vs normalized strain curve
+Analysis and Comparison of the Mechanical Behavior of Materials Using Stress vs. Strain Curves and Normalized Curves.
 
 ##  Analysis:
 
